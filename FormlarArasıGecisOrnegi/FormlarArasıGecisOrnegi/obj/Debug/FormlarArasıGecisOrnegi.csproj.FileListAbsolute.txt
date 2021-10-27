@@ -1,0 +1,12 @@
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\bin\Debug\FormlarArasıGecisOrnegi.exe.config
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\bin\Debug\FormlarArasıGecisOrnegi.exe
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\bin\Debug\FormlarArasıGecisOrnegi.pdb
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.csprojAssemblyReference.cache
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.Form1.resources
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.Form2.resources
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.Form3.resources
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.Properties.Resources.resources
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.csproj.GenerateResource.cache
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.exe
+C:\Users\190707143\source\repos\FormlarArasıGecisOrnegi\FormlarArasıGecisOrnegi\obj\Debug\FormlarArasıGecisOrnegi.pdb
