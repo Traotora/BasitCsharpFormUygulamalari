@@ -1,0 +1,10 @@
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\bin\Debug\YazilaniSilenCsharpProgrami.exe.config
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\bin\Debug\YazilaniSilenCsharpProgrami.exe
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\bin\Debug\YazilaniSilenCsharpProgrami.pdb
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\obj\Debug\YazilaniSilenCsharpProgrami.csprojAssemblyReference.cache
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\obj\Debug\YazilaniSilenCsharpProgrami.Form1.resources
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\obj\Debug\YazilaniSilenCsharpProgrami.Properties.Resources.resources
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\obj\Debug\YazilaniSilenCsharpProgrami.csproj.GenerateResource.cache
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\obj\Debug\YazilaniSilenCsharpProgrami.csproj.CoreCompileInputs.cache
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\obj\Debug\YazilaniSilenCsharpProgrami.exe
+C:\Users\190707143.MF\source\repos\YazilaniSilenCsharpProgrami\YazilaniSilenCsharpProgrami\obj\Debug\YazilaniSilenCsharpProgrami.pdb
