@@ -1,0 +1,10 @@
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\bin\Debug\DortIslemliBasitHesapMakinesi.exe.config
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\bin\Debug\DortIslemliBasitHesapMakinesi.exe
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\bin\Debug\DortIslemliBasitHesapMakinesi.pdb
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\obj\Debug\DortIslemliBasitHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\obj\Debug\DortIslemliBasitHesapMakinesi.Form1.resources
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\obj\Debug\DortIslemliBasitHesapMakinesi.Properties.Resources.resources
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\obj\Debug\DortIslemliBasitHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\obj\Debug\DortIslemliBasitHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\obj\Debug\DortIslemliBasitHesapMakinesi.exe
+C:\Users\Mahir\source\repos\DortIslemliBasitHesapMakinesi\DortIslemliBasitHesapMakinesi\obj\Debug\DortIslemliBasitHesapMakinesi.pdb
