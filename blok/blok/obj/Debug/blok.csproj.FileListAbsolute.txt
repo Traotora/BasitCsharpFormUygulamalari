@@ -1,0 +1,10 @@
+C:\Users\190707143\source\repos\blok\blok\obj\Debug\blok.csprojAssemblyReference.cache
+C:\Users\190707143\source\repos\blok\blok\obj\Debug\blok.Form1.resources
+C:\Users\190707143\source\repos\blok\blok\obj\Debug\blok.Properties.Resources.resources
+C:\Users\190707143\source\repos\blok\blok\obj\Debug\blok.csproj.GenerateResource.cache
+C:\Users\190707143\source\repos\blok\blok\obj\Debug\blok.csproj.CoreCompileInputs.cache
+C:\Users\190707143\source\repos\blok\blok\bin\Debug\blok.exe.config
+C:\Users\190707143\source\repos\blok\blok\bin\Debug\blok.exe
+C:\Users\190707143\source\repos\blok\blok\bin\Debug\blok.pdb
+C:\Users\190707143\source\repos\blok\blok\obj\Debug\blok.exe
+C:\Users\190707143\source\repos\blok\blok\obj\Debug\blok.pdb
