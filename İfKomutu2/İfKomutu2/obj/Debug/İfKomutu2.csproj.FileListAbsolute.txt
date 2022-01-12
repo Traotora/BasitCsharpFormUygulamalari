@@ -1,0 +1,9 @@
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\bin\Debug\İfKomutu2.exe.config
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\bin\Debug\İfKomutu2.exe
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\bin\Debug\İfKomutu2.pdb
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\obj\Debug\İfKomutu2.Form1.resources
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\obj\Debug\İfKomutu2.Properties.Resources.resources
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\obj\Debug\İfKomutu2.csproj.GenerateResource.cache
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\obj\Debug\İfKomutu2.csproj.CoreCompileInputs.cache
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\obj\Debug\İfKomutu2.exe
+C:\Users\190707143\source\repos\İfKomutu2\İfKomutu2\obj\Debug\İfKomutu2.pdb
