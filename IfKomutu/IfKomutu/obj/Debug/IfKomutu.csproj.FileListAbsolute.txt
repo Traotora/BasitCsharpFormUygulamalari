@@ -1,0 +1,9 @@
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\bin\Debug\IfKomutu.exe.config
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\bin\Debug\IfKomutu.exe
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\bin\Debug\IfKomutu.pdb
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\obj\Debug\IfKomutu.Form1.resources
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\obj\Debug\IfKomutu.Properties.Resources.resources
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\obj\Debug\IfKomutu.csproj.GenerateResource.cache
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\obj\Debug\IfKomutu.csproj.CoreCompileInputs.cache
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\obj\Debug\IfKomutu.exe
+C:\Users\190707143\source\repos\IfKomutu\IfKomutu\obj\Debug\IfKomutu.pdb
